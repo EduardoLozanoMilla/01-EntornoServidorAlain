@@ -1,0 +1,1 @@
+Extender el incrementar a que se pueda sumar y restar el valor especificado.
